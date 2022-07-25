@@ -2,10 +2,10 @@
   "name": "express",
   "version": "1.0.0",
   "description": "",
-  "main": "teste.js",
+  "main": "exercicio_3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon exercicio_2.js"
+    "start": "nodemon exercicio_3.js"
   },
   "author": "Patrick Sardou",
   "license": "ISC",
